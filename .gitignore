@@ -295,11 +295,3 @@ cscope.po.out
 .idea
 gradleBuild
 *.pb
-
-checkpoints
-dataset
-datasets/audioset/*.csv
-datasets/audioset/*.json
-datasets/audioset/*.tar.gz
-datasets/urbansound8k/UrbanSound8K
-datasets/urbansound8k/class
