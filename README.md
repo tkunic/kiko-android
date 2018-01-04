@@ -8,7 +8,7 @@ Android app that classifies sounds and localizes their sources. Android riff on 
 
 ## Localization
 
-This app localizes sounds by measuring the time delay of sound reaching two microphones. Using that delay, one can narrow down the sound source location to a surface in 3D space. But unfortunately, that surface consists of infinitely many points: to narrow the location down to a single point in 3D space, more microphones are required (Kiko Glasses had four), and most phones only have two. Luckily, we can work around this limitation by making some assumptions:
+This app localizes sounds by measuring the time delay of sound reaching two microphones. Using that delay, one can narrow down the sound source location to a surface in 3D space. But unfortunately, that surface consists of infinitely many points: to narrow the location down to a single point in 3D space, more microphones are required (Kiko Glasses had four, whereas phones tend to have at most two). Luckily, we can work around this limitation by making some assumptions:
 
 1. Assume the user only cares about the *direction* (a vector) the sound is coming from.
 2. Assume all sound originates in a plane.
