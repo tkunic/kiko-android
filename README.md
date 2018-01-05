@@ -2,7 +2,7 @@
 
 ![Kiko Android Screenshot](doc/kiko-screenshot_framed.png)
 
-Android app that classifies sounds and localizes their sources. Android riff on [Kiko Glasses](http://tkunic.me/blog/kiko-glasses).
+Android app that classifies sounds and localizes their sources. Android riff on [Kiko Glasses](http://tkunic.me/blog/kiko-glasses-win-lassonde-capstone-competition/).
 
 **Warning:** Kiko Android is NOT robust enough to be used as an assistive technology in the real world yet, and is just a proof-of-concept at this stage.
 
